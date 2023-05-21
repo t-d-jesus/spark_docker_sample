@@ -1,0 +1,72 @@
+2023-05-21 16:06:13,208 - INFO - Start Reading Wheather data from https://api.openweathermap.org/data/2.5/forecast for city londres
+2023-05-21 16:06:13,208 - INFO - Execute requesto to the API
+2023-05-21 16:06:14,699 - INFO - Save the data requested from the API
+2023-05-21 16:06:14,704 - INFO - Finish extraction for city londres
+2023-05-21 16:06:14,705 - INFO - Start Reading Wheather data from https://api.openweathermap.org/data/2.5/forecast for city Pennsylvania
+2023-05-21 16:06:14,705 - INFO - Execute requesto to the API
+2023-05-21 16:06:15,968 - INFO - Save the data requested from the API
+2023-05-21 16:06:15,973 - INFO - Finish extraction for city Pennsylvania
+2023-05-21 16:06:15,973 - INFO - Start Reading Wheather data from https://api.openweathermap.org/data/2.5/forecast for city Virginia
+2023-05-21 16:06:15,973 - INFO - Execute requesto to the API
+2023-05-21 16:06:17,411 - INFO - Save the data requested from the API
+2023-05-21 16:06:17,416 - INFO - Finish extraction for city Virginia
+2023-05-21 16:06:17,417 - INFO - Start Reading Wheather data from https://api.openweathermap.org/data/2.5/forecast for city Massachusetts
+2023-05-21 16:06:17,417 - INFO - Execute requesto to the API
+2023-05-21 16:06:18,782 - INFO - Save the data requested from the API
+2023-05-21 16:06:18,788 - INFO - Finish extraction for city Massachusetts
+2023-05-21 16:06:18,789 - INFO - Start Reading Wheather data from https://api.openweathermap.org/data/2.5/forecast for city Kentucky
+2023-05-21 16:06:18,789 - INFO - Execute requesto to the API
+2023-05-21 16:06:20,077 - INFO - Save the data requested from the API
+2023-05-21 16:06:20,083 - INFO - Finish extraction for city Kentucky
+2023-05-21 16:06:20,083 - INFO - Start Reading Wheather data from https://api.openweathermap.org/data/2.5/forecast for city Sonnenland
+2023-05-21 16:06:20,084 - INFO - Execute requesto to the API
+2023-05-21 16:06:21,433 - INFO - Save the data requested from the API
+2023-05-21 16:06:21,439 - INFO - Finish extraction for city Sonnenland
+2023-05-21 16:06:21,439 - INFO - Start Reading Wheather data from https://api.openweathermap.org/data/2.5/forecast for city Vue
+2023-05-21 16:06:21,440 - INFO - Execute requesto to the API
+2023-05-21 16:06:22,945 - INFO - Save the data requested from the API
+2023-05-21 16:06:22,951 - INFO - Finish extraction for city Vue
+2023-05-21 16:06:22,951 - INFO - Start Reading Wheather data from https://api.openweathermap.org/data/2.5/forecast for city Vay
+2023-05-21 16:06:22,952 - INFO - Execute requesto to the API
+2023-05-21 16:06:24,283 - INFO - Save the data requested from the API
+2023-05-21 16:06:24,288 - INFO - Finish extraction for city Vay
+2023-05-21 16:06:24,289 - INFO - Start Reading Wheather data from https://api.openweathermap.org/data/2.5/forecast for city Vertou
+2023-05-21 16:06:24,289 - INFO - Execute requesto to the API
+2023-05-21 16:06:25,634 - INFO - Save the data requested from the API
+2023-05-21 16:06:25,639 - INFO - Finish extraction for city Vertou
+2023-05-21 19:10:59,393 - INFO - Start Reading Wheather data from https://api.openweathermap.org/data/2.5/forecast for city londres
+2023-05-21 19:10:59,395 - INFO - Execute requesto to the API
+2023-05-21 19:11:00,783 - INFO - Save the data requested from the API
+2023-05-21 19:11:00,801 - INFO - Finish extraction for city londres
+2023-05-21 19:11:00,803 - INFO - Start Reading Wheather data from https://api.openweathermap.org/data/2.5/forecast for city Pennsylvania
+2023-05-21 19:11:00,805 - INFO - Execute requesto to the API
+2023-05-21 19:11:02,173 - INFO - Save the data requested from the API
+2023-05-21 19:11:02,200 - INFO - Finish extraction for city Pennsylvania
+2023-05-21 19:11:02,202 - INFO - Start Reading Wheather data from https://api.openweathermap.org/data/2.5/forecast for city Virginia
+2023-05-21 19:11:02,203 - INFO - Execute requesto to the API
+2023-05-21 19:11:03,500 - INFO - Save the data requested from the API
+2023-05-21 19:11:03,512 - INFO - Finish extraction for city Virginia
+2023-05-21 19:11:03,514 - INFO - Start Reading Wheather data from https://api.openweathermap.org/data/2.5/forecast for city Massachusetts
+2023-05-21 19:11:03,515 - INFO - Execute requesto to the API
+2023-05-21 19:11:04,800 - INFO - Save the data requested from the API
+2023-05-21 19:11:04,817 - INFO - Finish extraction for city Massachusetts
+2023-05-21 19:11:04,818 - INFO - Start Reading Wheather data from https://api.openweathermap.org/data/2.5/forecast for city Kentucky
+2023-05-21 19:11:04,819 - INFO - Execute requesto to the API
+2023-05-21 19:11:06,079 - INFO - Save the data requested from the API
+2023-05-21 19:11:06,096 - INFO - Finish extraction for city Kentucky
+2023-05-21 19:11:06,097 - INFO - Start Reading Wheather data from https://api.openweathermap.org/data/2.5/forecast for city Sonnenland
+2023-05-21 19:11:06,098 - INFO - Execute requesto to the API
+2023-05-21 19:11:07,335 - INFO - Save the data requested from the API
+2023-05-21 19:11:07,356 - INFO - Finish extraction for city Sonnenland
+2023-05-21 19:11:07,358 - INFO - Start Reading Wheather data from https://api.openweathermap.org/data/2.5/forecast for city Vue
+2023-05-21 19:11:07,359 - INFO - Execute requesto to the API
+2023-05-21 19:11:08,743 - INFO - Save the data requested from the API
+2023-05-21 19:11:08,766 - INFO - Finish extraction for city Vue
+2023-05-21 19:11:08,767 - INFO - Start Reading Wheather data from https://api.openweathermap.org/data/2.5/forecast for city Vay
+2023-05-21 19:11:08,768 - INFO - Execute requesto to the API
+2023-05-21 19:11:10,014 - INFO - Save the data requested from the API
+2023-05-21 19:11:10,030 - INFO - Finish extraction for city Vay
+2023-05-21 19:11:10,032 - INFO - Start Reading Wheather data from https://api.openweathermap.org/data/2.5/forecast for city Vertou
+2023-05-21 19:11:10,033 - INFO - Execute requesto to the API
+2023-05-21 19:11:11,442 - INFO - Save the data requested from the API
+2023-05-21 19:11:11,462 - INFO - Finish extraction for city Vertou

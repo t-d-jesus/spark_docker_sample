@@ -1,0 +1,53 @@
+version: '3'
+services:
+  spark-master:
+    build: .
+    container_name: spark-master
+    volumes:
+      - ./data:/data
+      - ../spark_docker_sample:/app/spark_docker_sample
+    environment:
+      - SPARK_MODE=master
+      - SPARK_RPC_AUTHENTICATION_ENABLED=no
+      - SPARK_RPC_ENCRYPTION_ENABLED=no
+    ports:
+      - "8080:8080"
+      - "7077:7077"
+    networks:
+      - default
+  
+  spark-worker:
+    build: .
+    volumes:
+      - ./data:/data
+      - ../spark_docker_sample:/app/spark_docker_sample
+    environment:
+      - SPARK_MODE=worker
+      - SPARK_MASTER_URL=spark://spark-master:7077
+      - SPARK_RPC_AUTHENTICATION_ENABLED=no
+      - SPARK_RPC_ENCRYPTION_ENABLED=no
+    networks:
+      - default
+
+  my-app:
+    build: .
+    user: root
+    container_name: my-app
+    volumes:
+      - ./data:/data
+      - ../spark_docker_sample:/app/spark_docker_sample
+    working_dir: /app/spark_docker_sample
+    command: >
+      sh -c 'pip install -r requirements.txt &&
+             python3 spark_docker_sample/meucodigo.py &&
+             spark-submit \
+                  --master spark://spark-master:7077 \
+                    spark_docker_sample/transform/transform_weather.py 
+             '
+    networks:
+      - default         
+
+
+networks:
+  default:
+
