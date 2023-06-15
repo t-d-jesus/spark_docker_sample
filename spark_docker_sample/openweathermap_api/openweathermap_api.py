@@ -50,7 +50,7 @@ def extract_data_from_api(id,name):
     #TODO Colocar a API_KEY PARA PEGAR COMO VARIAVEL DE AMBIENTE MAS NÃAAOOOOO COMITAR ELA  
     # URL da API
     URL = "https://api.openweathermap.org/data/2.5/forecast"
-    API_KEY = "09230948jhd888333300skhfjdhfk1198"
+    API_KEY = "kjafklasjfkjsakfsjfsakjjadsf"
     # Parâmetros da requisição
     params = {
         "id": id,
